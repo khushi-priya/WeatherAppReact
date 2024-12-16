@@ -1,0 +1,10 @@
+
+        body {
+            background-image: url("https://images.unsplash.com/photo-1499346030926-9a72daac6c63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1920");
+            background-size: cover; 
+            background-repeat: no-repeat; 
+            background-position: center center; 
+            min-height: 100vh; 
+            margin: 0; 
+        }
+   
